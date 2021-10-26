@@ -26,10 +26,10 @@ class RestockViewController: UIViewController , UITableViewDelegate, UITableView
     
     @IBAction func btnRestock(_ sender: Any) {
         validate()
-        if Int(txtQuantity.text!) != nil{
+        if Int(txtQuantity.text!) != nil && Int(txtQuantity.text!)! > 0{
             newQuantity = Int(txtQuantity.text!)! + currentQuantity
+            updateQuantity()
         }
-        updateQuantity()
     }
     
     @IBAction func btnCancel(_ sender: Any) {
@@ -45,6 +45,7 @@ class RestockViewController: UIViewController , UITableViewDelegate, UITableView
     func validate(){
         if currentQuantity == 0{
             errMsg = "Please select one of the products"
+
             showError()
         }else if Int(txtQuantity.text!) == nil && currentQuantity > 0{
             errMsg = "Please enter the amount of the new quantity"
