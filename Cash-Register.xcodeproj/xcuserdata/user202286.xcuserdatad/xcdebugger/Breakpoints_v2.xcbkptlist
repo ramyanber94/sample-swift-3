@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "27CEF450-AE50-4B01-8282-BF720E73DA3A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9BF3FA4-114F-4B32-B549-679B97D1D417"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73C7DB2E-E404-4183-BA68-620D21316965"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/Model/ProductManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "ProductManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C46292C-3DBD-4E19-A188-CA0CB0101B75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "btnManage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8458D0C8-CC9F-4340-913B-C5A632E5A8ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "btnBuy(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4612217-C662-4B9A-AD0F-92C783FB8866"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "showError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FD4DED0-8752-47B4-9C04-E7CCF44D9176"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E1FD819-AED9-4D8A-87A7-4342E1669092"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewsControllers/HistoryTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "HistoryTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5E1FD819-AED9-4D8A-87A7-4342E1669092 - 494bb5dd2cf9f6b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryTableViewController.historyPurshacedItems.getter : Swift.Optional&lt;Swift.Array&lt;Cash_Register.PurchasedItem&gt;&gt;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "5E1FD819-AED9-4D8A-87A7-4342E1669092 - 8a610aeb36c276d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryTableViewController.historyPurshacedItems.setter : Swift.Optional&lt;Swift.Array&lt;Cash_Register.PurchasedItem&gt;&gt;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "5E1FD819-AED9-4D8A-87A7-4342E1669092 - eeb433e7ce22f90a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryTableViewController.historyPurshacedItems.modify : Swift.Optional&lt;Swift.Array&lt;Cash_Register.PurchasedItem&gt;&gt;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "5E1FD819-AED9-4D8A-87A7-4342E1669092 - 5d22f6c526fda172"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryTableViewController.historyPurshacedItems.modify : Swift.Optional&lt;Swift.Array&lt;Cash_Register.PurchasedItem&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "5E1FD819-AED9-4D8A-87A7-4342E1669092 - bb8c4dd34bf5e100"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryTableViewController.init(style: __C.UITableViewStyle) -&gt; Cash_Register.HistoryTableViewController"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "5E1FD819-AED9-4D8A-87A7-4342E1669092 - 3299af677a88c976"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Cash_Register.HistoryTableViewController"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "5E1FD819-AED9-4D8A-87A7-4342E1669092 - d8fda7e312dc608"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Cash_Register.HistoryTableViewController&gt;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13D5E914-849F-4460-AF69-E43216C6E932"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewsControllers/HistoryDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "HistoryDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "13D5E914-849F-4460-AF69-E43216C6E932 - 440a819ef44c2f23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryDetailsViewController.lblTotalPrice.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "13D5E914-849F-4460-AF69-E43216C6E932 - e4b6dd4a8c378b17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryDetailsViewController.lblTotalPrice.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "13D5E914-849F-4460-AF69-E43216C6E932 - 8ceb78b0bf8b8e77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryDetailsViewController.lblTotalPrice.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "13D5E914-849F-4460-AF69-E43216C6E932 - 1fa7baf6fbf6db1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryDetailsViewController.lblTotalPrice.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "13D5E914-849F-4460-AF69-E43216C6E932 - 799d51b4aeb0fee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryDetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Cash_Register.HistoryDetailsViewController"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "473">
+               </Location>
+               <Location
+                  uuid = "13D5E914-849F-4460-AF69-E43216C6E932 - a50383c7b843a8b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cash_Register.HistoryDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Cash_Register.HistoryDetailsViewController&gt;"
+                  moduleName = "Cash-Register"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user202286/Desktop/Cash-Register/Cash-Register/ViewsControllers/HistoryDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "430">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50B544D7-7B05-45B6-86BC-A1612AB36121"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewsControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46B5C305-4B88-427B-8CA8-3B607C66B8A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewsControllers/RestockViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "btnRestock(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "435444D9-5D04-4027-AFC6-AA13C6191D02"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/Models/ProductManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getAllProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "521AE8A5-53D8-4329-8711-CD5FBFC3347B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewsControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B4DACD5-5B02-481F-9336-711E6AAF1207"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewsControllers/RestockViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "btnRestock(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FEA0E1F-A569-439E-82BD-45CC3E95C447"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewsControllers/RestockViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "btnRestock(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54AF7096-68A8-446C-BB0E-BCCF85B4662B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewsControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "btnBuy(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5F2181B-53F3-44A9-AE08-A925E501821D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cash-Register/ViewsControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "btnBuy(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
